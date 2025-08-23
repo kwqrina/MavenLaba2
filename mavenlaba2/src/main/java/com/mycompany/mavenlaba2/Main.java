@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.mavenlaba22;
+package com.mycompany.mavenlaba2;
 
 import controller.ArmyController;
 import javax.swing.SwingUtilities;

@@ -27,7 +27,7 @@ public class SayronArmyGui extends JFrame {
     
     private final Color backgroundColor = Color.WHITE;               
     private final Color textColor = Color.BLACK;   
-    private final Color progressBarColor = Color.GREEN;
+    private final Color progressBarColor = Color.RED;
 
     public SayronArmyGui(ArmyController controller) {
         super("Армия Саурона");
