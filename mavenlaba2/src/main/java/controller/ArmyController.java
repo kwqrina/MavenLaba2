@@ -44,7 +44,7 @@ public class ArmyController {
 
     public void launchApplication() {          //метод запуска графического интерфейса
         SwingUtilities.invokeLater(() -> {
-            this.view = new SayronArmyGui(this);
+            this.view = new SayronArmyGui();
             view.setVisible(true);
         });
     }
